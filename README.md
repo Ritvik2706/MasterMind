@@ -16,19 +16,6 @@ The game continues until the player successfully finds the combination.
 
 ---
 
-## Project Structure
-MasterMindGame/
-├── MasterMindClass.php # Model: defines the MasterMind class and game logic
-├── MasterMindModel.php # Model helper: validation and comparison functions
-├── MasterMindController.php # Controller: handles user input, session, and game flow
-├── MasterMindView.php # View: renders the HTML interface
-├── MasterMindStyle.css # CSS styling for the interface
-
-
-
-
----
-
 ## Features
 
 - Object-oriented PHP design
